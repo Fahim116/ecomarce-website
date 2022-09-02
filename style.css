@@ -42,3 +42,13 @@
 .categories img{
     width: 100%;
 }
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+#subscribe{
+    width: 300px;
+}
+#subscribe p{
+color: rgb(224, 17, 17);
+}
